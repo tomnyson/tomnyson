@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomnyson
 -  I am developer and instution 
 -  I have familar with javascript and clound
--  my linkedin: [link](https://www.linkedin.com/in/le-hong-son-264ba2100)
+-  my linkedin: [tomnyson](https://www.linkedin.com/in/le-hong-son-264ba2100)
 -  contact email: tabletkindfire@gmail.com
 
 <!---
