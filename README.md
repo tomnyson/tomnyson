@@ -4,10 +4,10 @@ Tel: 0495632757   |   tabletkindfire@gmail.com   |   https://www.linkedin.com/in
 
 
 
-PROFILE	
+## PROFILE	
 An experienced IT Node.js Developer with 8 years of experience in designing, developing, and maintaining web applications using Node.js. Proficient in creating and implementing highly scalable, secure, and performant applications. Passionate about learning new technologies and techniques to stay up-to-date with the latest trends in web development.
 
-KEY SKILLS	
+## KEY SKILLS	
 
 Programming Languages:
 JavaScript, Node.js, TypeScript, PHP, JAVA, C#, PYTHON.
@@ -22,7 +22,7 @@ Cloud Platforms: AWS.
 Soft Skills: Positive attitude, Flexibility, Time management, Teamwork, Problem-solving, Critical thinking
 
 
-PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 Fullstack developer	May 2019 – Apr 2023
 Tasselsoftware	
 •	Designed and developed scalable, efficient, and maintainable web applications using React.js and Node.js.
@@ -50,22 +50,22 @@ goodland
 •	Code review and refactoring
 •	Willingness to learn new technologies
 
-EDUCATION	
+## EDUCATION	
 VNUHCM - University of Science	2011-2018
 
 During university, I participated in activities such as swimming, reading, and improving my English proficiency. I also pursued programming courses and workshops, where I gained skills in Python and Java, learned software development methodologies, and practiced creating diagrams. I participated in hackathon and coding challenges, which helped me to develop my problem-solving and collaboration skills	
 
-CERTIFICATION OR DEGREE	2018
+## CERTIFICATION OR DEGREE	2018
 Bachelor of Information Technology	Viet Nam
 	
-PROJECTS
+## PROJECTS
 https://www.nagemon.com
 https://www.hb-wallet.com
 https://vmax.vn
 https://dev.tasselup.com
 https://github.com/tomnyson
 
-PROFESSIONAL CONTRIBUTIONS	
+## PROFESSIONAL CONTRIBUTIONS	
 •	Lifelong learner with a passion for expanding my knowledge in new areas
 •	Enjoy attending tech conferences and workshops to learn about the latest industry trends and techniques
 •	Active member of a local tech meetup group where I network with like-minded professionals and make new friends
