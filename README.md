@@ -28,14 +28,14 @@ Positive attitude, Flexibility, Time management, Teamwork, Problem-solving, Crit
 
 
 ## PROFESSIONAL EXPERIENCE
-Fullstack developer	May 2019 – Apr 2023
-Tasselsoftware	
+### Fullstack developer(May 2019 – Apr 2023)
+#### Tasselsoftware	
 •	Designed and developed scalable, efficient, and maintainable web applications using React.js and Node.js.
 •	Collaborated with the team to identify and resolve technical issues and implemented solutions to improve system performance.
 •	Developed RESTful APIs using Node.js and Express.js to interact with databases and other web services.
 •	Worked with DevOps team to deploy applications to AWS and Azure cloud platforms using Docker.	
-Blockchain developer	Aug 2018 – Oct 2019
-Bacoor Vietnam	
+### Blockchain developer(Aug 2018 – Oct 2019)
+#### Bacoor Vietnam	
 •	Proficiency in Solidity for smart contract development
 •	Experience with Node.js and JavaScript/TypeScript for backend development.
 •	Familiarity with Linux operating systems.
