@@ -13,17 +13,17 @@ An experienced IT Node.js Developer with 8 years of experience in designing, dev
 JavaScript, Node.js, TypeScript, PHP, JAVA, C#, PYTHON.
 Frameworks:
 Express.js, Nest.js, Laravel, Wordpress, Flask, Reactjs, React-native.
-### Databases:
+#### Databases:
 MongoDB, MySQL, PostgreSQL, DynamoDB.
-### Cache:
+#### Cache:
 Redis.
-### Search:
+#### Search:
 Elasticsearch.
-#### Tools:
+##### Tools:
 Git, VS Code, Postman, Docker.
-### Cloud Platforms:
+#### Cloud Platforms:
 AWS.
-### Soft Skills:
+#### Soft Skills:
 Positive attitude, Flexibility, Time management, Teamwork, Problem-solving, Critical thinking
 
 
