@@ -1,4 +1,4 @@
-Hong Son Le
+# SON LE
 Full Stack Developer 
 Tel: 0495632757   |   tabletkindfire@gmail.com   |   https://www.linkedin.com/in/le-hong-son-264ba2100/
 
@@ -41,19 +41,18 @@ Positive attitude, Flexibility, Time management, Teamwork, Problem-solving, Crit
 •	Familiarity with Linux operating systems.
 •	Knowledge of the latest cryptology techniques for secure communication.
 
-
-PHP developer	APR 2017 – JUN 2018
-Vmax	
-•	Experience in developing Magento e-commerce and CMS solutions following the software development lifecycle
-•	Ability to customize and deploy Magento extensions and themes
-•	Knowledge of the latest Magento versions and updates
-•	Experience mentoring other members of the team
-PHP developer	MAR 2016 – NOV 2016
-goodland	
-•	Writing software programs from design specifications
-•	Compliance with coding quality standards
-•	Code review and refactoring
-•	Willingness to learn new technologies
+### PHP developer(APR 2017 – JUN 2018)
+#### Vmax	
+- Experience in developing Magento e-commerce and CMS solutions following the software development lifecycle
+- Ability to customize and deploy Magento extensions and themes
+- Knowledge of the latest Magento versions and updates
+- Experience mentoring other members of the team
+### PHP developer(MAR 2016 – NOV 2016)
+#### goodland	
+- Writing software programs from design specifications
+- Compliance with coding quality standards
+- Code review and refactoring
+- Willingness to learn new technologies
 
 ## EDUCATION	
 VNUHCM - University of Science	2011-2018
@@ -64,17 +63,16 @@ During university, I participated in activities such as swimming, reading, and i
 Bachelor of Information Technology	Viet Nam
 	
 ## PROJECTS
-https://www.nagemon.com
-https://www.hb-wallet.com
-https://vmax.vn
-https://dev.tasselup.com
-https://github.com/tomnyson
+- https://www.nagemon.com
+- https://www.hb-wallet.com
+- https://vmax.vn
+- https://dev.tasselup.com
 
 ## PROFESSIONAL CONTRIBUTIONS	
-•	Lifelong learner with a passion for expanding my knowledge in new areas
-•	Enjoy attending tech conferences and workshops to learn about the latest industry trends and techniques
-•	Active member of a local tech meetup group where I network with like-minded professionals and make new friends
+- Lifelong learner with a passion for expanding my knowledge in new areas
+- Enjoy attending tech conferences and workshops to learn about the latest industry trends and techniques
+- Active member of a local tech meetup group where I network with like-minded professionals and make new friends
 
-REFERENCES
+## REFERENCES
 
-REFERENCES PROVIDED UPON REQUEST
+## REFERENCES PROVIDED UPON REQUEST
