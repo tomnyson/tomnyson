@@ -1,6 +1,6 @@
 # SON LE
 Full Stack Developer 
-Tel: 0495632757   |   tabletkindfire@gmail.com   |   https://www.linkedin.com/in/le-hong-son-264ba2100/
+Tel: 0495632757   |   tabletkindfire@gmail.com   |  [ https://www.linkedin.com/in/https://www.linkedin.com/in/tomnyson](https://www.linkedin.com/in/tomnyson/)
 
 
 
@@ -63,10 +63,10 @@ During university, I participated in activities such as swimming, reading, and i
 Bachelor of Information Technology	Viet Nam
 	
 ## PROJECTS
-- https://www.nagemon.com
-- https://www.hb-wallet.com
-- https://vmax.vn
-- https://dev.tasselup.com
+- [https://www.nagemon.com](https://www.nagemon.com)
+- [https://www.hb-wallet.com](https://www.hb-wallet.com)
+- [https://vmax.vn](https://vmax.vn)
+- [https://dev.tasselup.com](https://dev.tasselup.com)
 
 ## PROFESSIONAL CONTRIBUTIONS	
 - Lifelong learner with a passion for expanding my knowledge in new areas
