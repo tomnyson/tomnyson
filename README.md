@@ -1,6 +1,6 @@
 # SON LE
 ## Full Stack Developer 
-Tel: 0459632757   |   tabletkindfire@gmail.com   |  [ https://www.linkedin.com/in/https://www.linkedin.com/in/tomnyson](https://www.linkedin.com/in/tomnyson/)
+Tel: 0349528472   |   tabletkindfire@gmail.com   |  [ https://www.linkedin.com/in/https://www.linkedin.com/in/tomnyson](https://www.linkedin.com/in/tomnyson/)
 
 
 
