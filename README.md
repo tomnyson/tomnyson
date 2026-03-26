@@ -22,7 +22,7 @@ Elasticsearch.
 ##### Tools:
 Git, VS Code, Postman, Docker.
 #### Cloud Platforms:
-AWS.
+AWS, Google Cloud, Azure Cloud
 #### Soft Skills:
 Positive attitude, Flexibility, Time management, Teamwork, Problem-solving, Critical thinking
 ### AI Skill
@@ -69,6 +69,7 @@ Bachelor of Information Technology	Viet Nam
 - [https://www.hb-wallet.com](https://www.hb-wallet.com)
 - [https://vmax.vn](https://vmax.vn)
 - [https://dev.tasselup.com](https://dev.tasselup.com)
+- [https://edukidstaynguyen.com](https://edukidstaynguyen.com)
 
 ## PROFESSIONAL CONTRIBUTIONS	
 - Lifelong learner with a passion for expanding my knowledge in new areas
