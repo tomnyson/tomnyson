@@ -25,6 +25,8 @@ Git, VS Code, Postman, Docker.
 AWS.
 #### Soft Skills:
 Positive attitude, Flexibility, Time management, Teamwork, Problem-solving, Critical thinking
+### AI Skill
+Chat GPT, Google gemini, Claude, Agent AI
 
 
 ## PROFESSIONAL EXPERIENCE
