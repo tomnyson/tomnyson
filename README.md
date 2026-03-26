@@ -1,4 +1,4 @@
-# SON LE
+# LE HONG SON (tomnyson)
 ## Full Stack Developer 
 Tel: 0349528472   |   tabletkindfire@gmail.com   |  [https://www.linkedin.com/in/tomnyson/](https://www.linkedin.com/in/tomnyson/))
 
@@ -25,8 +25,8 @@ Git, VS Code, Postman, Docker.
 AWS, Google Cloud, Azure Cloud
 #### Soft Skills:
 Positive attitude, Flexibility, Time management, Teamwork, Problem-solving, Critical thinking
-### AI Skill
-Chat GPT, Google gemini, Claude, Agent AI
+### AI Skills
+Chat GPT, Google gemini, Claude clode, Antigravity,Cusor, Agent AI
 
 
 ## PROFESSIONAL EXPERIENCE
@@ -70,6 +70,7 @@ Bachelor of Information Technology	Viet Nam
 - [https://vmax.vn](https://vmax.vn)
 - [https://dev.tasselup.com](https://dev.tasselup.com)
 - [https://edukidstaynguyen.com](https://edukidstaynguyen.com)
+- [https://github.com/tomnyson/edukids-screenshot](https://github.com/tomnyson/edukids-screenshot)
 
 ## PROFESSIONAL CONTRIBUTIONS	
 - Lifelong learner with a passion for expanding my knowledge in new areas
