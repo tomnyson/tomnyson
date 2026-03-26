@@ -12,14 +12,14 @@ An experienced IT Node.js Developer with 8 years of experience in designing, dev
 ### Programming Languages:
 JavaScript, Node.js, TypeScript, PHP, JAVA, C#, PYTHON.
 Frameworks:
-Express.js, Nest.js, Laravel, Wordpress, Flask, Reactjs, React-native.
+Express.js, Nest.js, Laravel, Wordpress, Flask, Reactjs, React-native, flutter
 #### Databases:
 MongoDB, MySQL, PostgreSQL, DynamoDB.
 #### Cache:
-Redis.
+Redis
 #### Search:
 Elasticsearch.
-##### Tools:
+#### Tools:
 Git, VS Code, Postman, Docker.
 #### Cloud Platforms:
 AWS, Google Cloud, Azure Cloud
