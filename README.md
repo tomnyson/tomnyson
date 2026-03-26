@@ -5,7 +5,8 @@ Tel: 0349528472   |   tabletkindfire@gmail.com   |  [https://www.linkedin.com/in
 
 
 ## PROFILE	
-An experienced IT Node.js Developer with 8 years of experience in designing, developing, and maintaining web applications using Node.js. Proficient in creating and implementing highly scalable, secure, and performant applications. Passionate about learning new technologies and techniques to stay up-to-date with the latest trends in web development.
+Senior Full stack Developer (10+ Years Experience)
+Seasoned backend engineer specializing in scalable, high-performance web applications and microservices. Proven expertise in the Node.js ecosystem, advanced database optimization (PostgreSQL, MongoDB), and cloud infrastructure (GCP, Docker). Strong focus on secure, high-availability system design.
 
 ## KEY SKILLS	
 
