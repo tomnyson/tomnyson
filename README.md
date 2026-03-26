@@ -26,7 +26,7 @@ AWS, Google Cloud, Azure Cloud
 #### Soft Skills:
 Positive attitude, Flexibility, Time management, Teamwork, Problem-solving, Critical thinking
 ### AI Skills
-Chat GPT, Google gemini, Claude clode, Antigravity,Cusor, Agent AI
+Chat GPT, Google gemini, Claude code, Antigravity, Cusor, Agent AI
 
 
 ## PROFESSIONAL EXPERIENCE
